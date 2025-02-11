@@ -8,6 +8,7 @@ public class Exams {
         System.out.println(seats[2]+", you will take seat " + 2);
         System.out.println(seats[3]+", you will take seat " + 3);
         System.out.println(seats[4]+", you will take seat " + 4);
+        System.err.println("seats are assigned succesfully");
 
     }
 }
