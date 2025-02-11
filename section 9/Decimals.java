@@ -8,6 +8,7 @@ public class Decimals {
 
         BigDecimal y = new BigDecimal("0.2");
 
-        System.out.println(y.subtract(x)); // Correct method name
+        System.out.println(y.subtract(x));
+        System.out.println("answer");
     }
 }
